@@ -1,1 +1,1 @@
-Funcionalidades de cadastro
+Funcionalidade Cadastro
